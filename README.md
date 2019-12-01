@@ -1,4 +1,4 @@
-# Pizza_Selling_Website_With_PayTm_PAyment_Module
+# Pizza_Selling_Website_With_PayTm_Payment_Module
 
 To Run The Website Work PRoperly From Browser Steps are:-
 1)The Downloaded Folder into The Xampp(Localhost Based Server) App in the Folder(C:\xampp\htdocs)
