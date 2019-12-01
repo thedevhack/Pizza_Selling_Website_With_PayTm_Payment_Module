@@ -42,6 +42,6 @@ define('PAYTM_MERCHANT_WEBSITE', 'Website_Name'); //Change this constant's value
 
 To the Details you get from FROM YOUR PAYTM PAYMENT DEVELOPERS DETAILS
 
-![Test Image 35(https://user-images.githubusercontent.com/47482315/69914774-2a7cc700-146e-11ea-8e91-898dbbae3b77.png)
+![Test Image 5](https://user-images.githubusercontent.com/47482315/69914774-2a7cc700-146e-11ea-8e91-898dbbae3b77.png)
 
 NOTE:-THE BACK OPTION IN DURING PAYMENT OF THE TRANSACTION DOESN'T WORK PROPERLY
